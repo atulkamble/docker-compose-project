@@ -1,7 +1,6 @@
-# Docker Compose Basic Project: Python Flask + Redis
-
-**Level:** Beginner  
-**Duration:** 30–45 minutes  
+# Docker Compose Basic Project: 
+Python Flask + Redis
+ 
 **Services:** Flask web application and Redis
 
 In this hands-on project, you will deploy a Python Flask web application and a Redis database using Docker Compose. The Flask application displays a welcome message and counts page visits.
